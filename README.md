@@ -1,4 +1,4 @@
- ** BUBBLE: AI CHATBOT** 🤖
+ **BUBBLE: AI CHATBOT** 🤖
 
 A fun and interactive C++ chatbot program designed to engage users in conversations, analyze sentiments, and even tell jokes!
 
